@@ -37,4 +37,4 @@ function writeNumber(number) {
     return newArray.reverse().join('');
 }
 
-convertToRoman(36);
+convertToRoman(300006);
